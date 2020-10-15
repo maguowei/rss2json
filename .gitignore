@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 .chalice/deployments/
 .chalice/venv/
+.chalice/deployed/dev.json
